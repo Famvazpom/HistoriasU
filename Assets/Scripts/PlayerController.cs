@@ -22,6 +22,7 @@ public class PlayerController : MonoBehaviour {
 		this.rb = GetComponent<Rigidbody2D>();
 		this.anim = GetComponent<Animator>();
 		this.sRenderer = GetComponent<SpriteRenderer>();
+		this.trans = GetComponent<Transform>();
 		runingHash = Animator.StringToHash("isRunning");
 	}
 	
@@ -62,7 +63,7 @@ public class PlayerController : MonoBehaviour {
 
 	void FlipSprite()
 	{
-		if(x<0 && Mathf.Abs(x) > Mathf.Abs(y))
+		if(x<0 && Mathf.Abs(x) >= Mathf.Abs(y))
 		{
 			sRenderer.flipX = true;
 		}
