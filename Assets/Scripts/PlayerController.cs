@@ -6,6 +6,8 @@ public class PlayerController : MonoBehaviour {
 
 	[SerializeField] private float speed; // Velocidad de mov
 	private InputController input; // Variable que referenciara al componente del jugador
+	private Transform trans; // Variable para el componente Transform
+
 	private float x; // Horizontal
 	private float y; // Vertical
 	private Rigidbody2D rb;
@@ -16,9 +18,11 @@ public class PlayerController : MonoBehaviour {
 	
 	void Start () {
 		this.input = GetComponent<InputController>();
+		this.trans = GetComponent<Transform>();
 		this.rb = GetComponent<Rigidbody2D>();
 		this.anim = GetComponent<Animator>();
 		this.sRenderer = GetComponent<SpriteRenderer>();
+		this.trans = GetComponent<Transform>();
 		runingHash = Animator.StringToHash("isRunning");
 	}
 	
