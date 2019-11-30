@@ -4,6 +4,9 @@ TextureImporter:
   fileIDToRecycleName:
     21300000: Ciudad_objetos-Sheet 1_0
     21300002: Ciudad_objetos-Sheet 1_1
+    21300004: Ciudad_objetos-Sheet_0
+    21300006: Ciudad_objetos-Sheet_1
+    21300008: Ciudad_objetos-Sheet_2
   externalObjects: {}
   serializedVersion: 7
   mipmaps:
@@ -86,7 +89,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Ciudad_objetos-Sheet 1_0
+      name: Ciudad_objetos-Sheet_0
       rect:
         serializedVersion: 2
         x: 0
@@ -100,13 +103,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0a6ec0e30902e0a4a9f53d2b2d4ee85f
+      spriteID: c5d70b2bbcc6e354bac3ca6da12aba30
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Ciudad_objetos-Sheet 1_1
+      name: Ciudad_objetos-Sheet_1
       rect:
         serializedVersion: 2
         x: 64
@@ -120,7 +123,27 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 50c78438325093347beaef19487296ec
+      spriteID: cb4a83b84bd745941bfe8751dc7141ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ciudad_objetos-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9737103d99296464d9ab34a27ec64829
       vertices: []
       indices: 
       edges: []

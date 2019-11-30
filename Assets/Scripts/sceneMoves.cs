@@ -6,7 +6,7 @@ using UnityEngine.SceneManagement;
 public class sceneMoves : MonoBehaviour {
 
 	[SerializeField] public string ScenetoLoad;
-	[SerializeField] public Vector3Int nextPos;
+	[SerializeField] public Vector3 nextPos;
 
 
 	// Use this for initialization

@@ -30,6 +30,26 @@ TextureImporter:
     21300050: Afueras-Sheet_25
     21300052: Afueras-Sheet_26
     21300054: Afueras-Sheet_27
+    21300056: Afueras-Sheet_28
+    21300058: Afueras-Sheet_29
+    21300060: Afueras-Sheet_30
+    21300062: Afueras-Sheet_31
+    21300064: Afueras-Sheet_32
+    21300066: Afueras-Sheet_33
+    21300068: Afueras-Sheet_34
+    21300070: Afueras-Sheet_35
+    21300072: Afueras-Sheet_36
+    21300074: Afueras-Sheet_37
+    21300076: Afueras-Sheet_38
+    21300078: Afueras-Sheet_39
+    21300080: Afueras-Sheet_40
+    21300082: Afueras-Sheet_41
+    21300084: Afueras-Sheet_42
+    21300086: Afueras-Sheet_43
+    21300088: Afueras-Sheet_44
+    21300090: Afueras-Sheet_45
+    21300092: Afueras-Sheet_46
+    21300094: Afueras-Sheet_47
   externalObjects: {}
   serializedVersion: 7
   mipmaps:
@@ -116,7 +136,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 832
+        y: 704
         width: 64
         height: 64
       alignment: 0
@@ -126,7 +146,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8330d12cd9b90184cae26a38f81f870d
+      spriteID: 4df473f6036f0ad429f0a5642471b17f
       vertices: []
       indices: 
       edges: []
@@ -136,7 +156,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 64
-        y: 832
+        y: 704
         width: 64
         height: 64
       alignment: 0
@@ -146,7 +166,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3c3dfbc4794345c4caa42863f242f3b4
+      spriteID: 333cd68926e2ff64bbde89263d91e602
       vertices: []
       indices: 
       edges: []
@@ -155,8 +175,8 @@ TextureImporter:
       name: Afueras-Sheet_2
       rect:
         serializedVersion: 2
-        x: 0
-        y: 768
+        x: 128
+        y: 704
         width: 64
         height: 64
       alignment: 0
@@ -166,7 +186,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 133b9c527dd7744459de44037230a085
+      spriteID: 23fb840669198684d9ebcc83cf97a0ef
       vertices: []
       indices: 
       edges: []
@@ -175,8 +195,8 @@ TextureImporter:
       name: Afueras-Sheet_3
       rect:
         serializedVersion: 2
-        x: 64
-        y: 768
+        x: 192
+        y: 704
         width: 64
         height: 64
       alignment: 0
@@ -186,7 +206,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: dd2535f155d3cc14894fe8f69e32557a
+      spriteID: 1c292cffdaca4fc4a8acd73955da3558
       vertices: []
       indices: 
       edges: []
@@ -196,7 +216,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 704
+        y: 640
         width: 64
         height: 64
       alignment: 0
@@ -206,7 +226,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9ea2000beed38ea4ea12a6ab8e701a66
+      spriteID: 6a16b27dc7f859c4a851fc99194c4a5d
       vertices: []
       indices: 
       edges: []
@@ -216,7 +236,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 64
-        y: 704
+        y: 640
         width: 64
         height: 64
       alignment: 0
@@ -226,7 +246,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 86eecfb42fbcf7b42b4c03cafaf66cc6
+      spriteID: a86c6e7649a2be44f99f8ab05ab3be61
       vertices: []
       indices: 
       edges: []
@@ -235,7 +255,7 @@ TextureImporter:
       name: Afueras-Sheet_6
       rect:
         serializedVersion: 2
-        x: 0
+        x: 128
         y: 640
         width: 64
         height: 64
@@ -246,7 +266,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ef3a7396c27e9ea44be7d1fa3b11b702
+      spriteID: c032397844b7e1941954f943fc307120
       vertices: []
       indices: 
       edges: []
@@ -255,7 +275,7 @@ TextureImporter:
       name: Afueras-Sheet_7
       rect:
         serializedVersion: 2
-        x: 64
+        x: 192
         y: 640
         width: 64
         height: 64
@@ -266,7 +286,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ccefe5cdf24a9734b98089ea9675de71
+      spriteID: 06f229515fb10bb4aa75289f12af53b3
       vertices: []
       indices: 
       edges: []
@@ -286,7 +306,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 08dfefe8d1dabc74e946ab2d4903dfde
+      spriteID: 0646936c5b603a34982c7fa42550dac6
       vertices: []
       indices: 
       edges: []
@@ -306,7 +326,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 88aaf1ec3052aff4ab2e4952a6135c83
+      spriteID: d87a5fa56b5394f4283507a57a39a959
       vertices: []
       indices: 
       edges: []
@@ -315,8 +335,8 @@ TextureImporter:
       name: Afueras-Sheet_10
       rect:
         serializedVersion: 2
-        x: 0
-        y: 512
+        x: 128
+        y: 576
         width: 64
         height: 64
       alignment: 0
@@ -326,7 +346,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a4f58a898af129c4fbc348342f91a430
+      spriteID: b54785cb849a8584e9eed386eb897fe0
       vertices: []
       indices: 
       edges: []
@@ -335,8 +355,8 @@ TextureImporter:
       name: Afueras-Sheet_11
       rect:
         serializedVersion: 2
-        x: 64
-        y: 512
+        x: 192
+        y: 576
         width: 64
         height: 64
       alignment: 0
@@ -346,7 +366,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 473c70da89ef76f45876ba472846f228
+      spriteID: 71a2a32a66321fe4eba7f1aedea57135
       vertices: []
       indices: 
       edges: []
@@ -356,7 +376,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 448
+        y: 512
         width: 64
         height: 64
       alignment: 0
@@ -366,7 +386,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 354871f0c2e22b44694b910778b09490
+      spriteID: 991952f06967d00409a042a347ac2d25
       vertices: []
       indices: 
       edges: []
@@ -376,6 +396,66 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 64
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d44340c88fa498f4db0812fc3b991f62
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Afueras-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8068bf9329a0c2b4c9bcdae531ad13f3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Afueras-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f69b3ae7005567740afddba1c2383cb5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Afueras-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 0
         y: 448
         width: 64
         height: 64
@@ -386,67 +466,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9e8f6501c8969cf48b9b609363501cfe
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Afueras-Sheet_14
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 384
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8879cd02bd8a31a47a500420b5e7be59
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Afueras-Sheet_15
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 384
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5827bac361e8b8845911634a53cdeea2
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Afueras-Sheet_16
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 320
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d48c2733207202445ab66543f0911687
+      spriteID: 06a71e7bfb5490540b4302427e1a8631
       vertices: []
       indices: 
       edges: []
@@ -456,6 +476,146 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 64
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a05058d1b89d984180abdf4d08a8fec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Afueras-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ecccc13712c5774cadd2c41a07b8ecc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Afueras-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 421596ed21b4ac147817be10a7d16e83
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Afueras-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e161bd736167a794ca582e503cbe83a6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Afueras-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e99afd53e6da934f913f0a2dd138bf7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Afueras-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 888a91ca8a2469a46924d865aaf799e5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Afueras-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db405eb8671458449a0f9ca26cd1b948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Afueras-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
         y: 320
         width: 64
         height: 64
@@ -466,147 +626,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: eecd4daf58cdae245a64d7d94c6100d1
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Afueras-Sheet_18
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 256
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0acc7ee1867fb6245b103a51fd41ee75
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Afueras-Sheet_19
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 256
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4ca9b5a7f7768ef4aaf3c150812f287e
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Afueras-Sheet_20
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 192
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 412511412428dd24c8b8c550240b1d59
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Afueras-Sheet_21
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 192
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d3e73bad38c2cc3459b89a29b76fb66b
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Afueras-Sheet_22
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 128
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b8b2ba2615494d04e80596977a338434
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Afueras-Sheet_23
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 128
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4e7af4b1f2914ee43b64707f7129bb5d
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Afueras-Sheet_24
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 64
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: be8803c741682a54a81423bfd16b9498
+      spriteID: d818a75e5d8c90645b3badb1f9555e50
       vertices: []
       indices: 
       edges: []
@@ -616,6 +636,306 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 64
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c29b103b23d300544bb14ab4c6647017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Afueras-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86e1e54611f16134eab514070bfc6096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Afueras-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 266e09af4630ed34fbfad67cbe3d82da
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Afueras-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8da51259e9ae2fa4e925697d14b0225c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Afueras-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1e1f3ec6d5337547a6d52c3d06da212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Afueras-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 406dd164024e5b248919813f752c3700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Afueras-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dbe6399bf19adb4d8138369b4a2685a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Afueras-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e726d1cc92c352f49a1dc5d508970877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Afueras-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af6acf8482bfc9c4087d26e1d98dd77c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Afueras-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94d3502ec6f7ff94ea2d0b5add8e72bf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Afueras-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7f4640e7a2f2d14fbc80bc3591c22ba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Afueras-Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 116020f2943ac644cb1db0965e3846b0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Afueras-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 996a22eb656fc34498615ce60d3fc280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Afueras-Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ead6d3509fead2a4ab10322713dfce7c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Afueras-Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2804a5d93cbb76445b21cef7aca76c51
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Afueras-Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 0
         y: 64
         width: 64
         height: 64
@@ -626,13 +946,73 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: acccb1d75ce2aa045b5e4c19f5f1df9b
+      spriteID: 0905d42687080614b908f52577e47bdb
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Afueras-Sheet_26
+      name: Afueras-Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0395c33b307971c44aa4d54fa557b8f2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Afueras-Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 844aefe346360fb49b9b71131b8e3e52
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Afueras-Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fcf63464e1f7f046aa99e0744a373d2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Afueras-Sheet_44
       rect:
         serializedVersion: 2
         x: 0
@@ -646,13 +1026,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f66035f4bc0a2454ebbfa02df7ab81d6
+      spriteID: 657c14c490614c749b0568382e457ac8
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Afueras-Sheet_27
+      name: Afueras-Sheet_45
       rect:
         serializedVersion: 2
         x: 64
@@ -666,7 +1046,47 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c1cd1da0df927f347a3d571b13388b71
+      spriteID: 5dda748668658e14ea68f847cc9354bf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Afueras-Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 703d008d3a7c8d94dafb3cf2aef16287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Afueras-Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aef82df2255345438ee9d7d413f68d1
       vertices: []
       indices: 
       edges: []
