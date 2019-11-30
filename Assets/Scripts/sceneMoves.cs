@@ -3,14 +3,19 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class OnCollide : MonoBehaviour {
+public class sceneMoves : MonoBehaviour {
 
 	[SerializeField] public string ScenetoLoad;
+	[SerializeField] public Vector3Int nextPos;
 
 
 	// Use this for initialization
 	void OnTriggerEnter2D(Collider2D other)
 	{
-		if(other.tag == "Player") SceneManager.LoadScene(ScenetoLoad);
+		if(other.tag == "Player") 
+		{	
+			SceneManager.LoadScene(ScenetoLoad);
+			other.transform.position= nextPos;
+		}
 	}
 }
