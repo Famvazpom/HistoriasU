@@ -47,6 +47,9 @@ TagManager:
   - name: Objetos
     uniqueID: 1476155421
     locked: 0
+  - name: Murallas
+    uniqueID: 1258552899
+    locked: 0
   - name: Personaje
     uniqueID: 2473942621
     locked: 0

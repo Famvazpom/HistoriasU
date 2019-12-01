@@ -14,4 +14,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Casa1.unity
     guid: f91b4271f6d4ca94f989cea5d1d569e0
+  - enabled: 1
+    path: Assets/Scenes/Iglesia.unity
+    guid: ae9a78bbc99bae544a5170a659e644d3
   m_configObjects: {}

@@ -1143,22 +1143,6 @@ Prefab:
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b69752624dc07ad4a9311a9b9bc6eceb, type: 2}
   m_IsPrefabAsset: 0
---- !u!1 &742218342 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 1768411479153372, guid: 88e623fe554c7e54f85c1ee5d0c8a9ca,
-    type: 2}
-  m_PrefabInternal: {fileID: 5869547}
---- !u!114 &742218349
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 742218342}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: b7dffa25deba8224bac5ea6b52cd7b9c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &1161071262
 GameObject:
   m_ObjectHideFlags: 0
@@ -4136,7 +4120,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ScenetoLoad: Ciudad
-  nextPos: {x: 5, y: -1, z: 0}
+  nextPos: {x: 5, y: -10.52, z: 0}
 --- !u!19719996 &1593938908
 TilemapCollider2D:
   m_ObjectHideFlags: 0
