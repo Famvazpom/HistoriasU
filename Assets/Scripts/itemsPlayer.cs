@@ -42,4 +42,29 @@ public class itemsPlayer : MonoBehaviour {
 		return false;
 	}
 
+	public int getNotes()
+	{
+		int count = 0;
+		foreach (var item in items)
+		{
+			if(item.Key != "Key" && item.Value)
+			{
+				count+=1;
+			}
+		}
+		return count;
+	}
+
+	public bool hasAll()
+	{
+		foreach (var item in items)
+		{
+			if(!item.Value)
+			{
+				return false;
+			}
+		}
+		return true;
+	}
+
 }
