@@ -5,14 +5,22 @@ using UnityEngine;
 public class openChest : MonoBehaviour {
 
 	// Use this for initialization
-	[SerializeField] private string playerTag;
-	private float action;
-	public void OnTriggerEnter2D(Collider2D other)
-	{
+	private itemsPlayer plr;
 
-		if(other.tag == playerTag)
+	[SerializeField] private string playerTag;
+
+	void Start()
+	{
+		plr = GameObject.FindGameObjectWithTag("Player").GetComponent<itemsPlayer>();
+
+	}
+
+	public void OnCollisionEnter2D(Collision2D other)
+	{
+		Debug.Log("Enter");
+		if(other.gameObject.tag == playerTag && plr.CheckNotes())
 		{
-			Debug.Log("Abrir cofre");
+			Destroy(this.gameObject);
 		}
 	}
 }

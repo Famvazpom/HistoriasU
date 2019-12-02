@@ -7,6 +7,15 @@ public class sceneMoves : MonoBehaviour {
 
 	[SerializeField] public string ScenetoLoad;
 	[SerializeField] public Vector3 nextPos;
+	[SerializeField] private string requisito;
+	[SerializeField] private bool hasReq;
+	private itemsPlayer ply;
+
+	void Start()
+	{
+		ply =  GameObject.FindGameObjectWithTag("Player").GetComponent<itemsPlayer>();
+
+	}
 
 
 	// Use this for initialization
@@ -14,8 +23,25 @@ public class sceneMoves : MonoBehaviour {
 	{
 		if(other.tag == "Player") 
 		{	
-			SceneManager.LoadScene(ScenetoLoad);
-			other.transform.position= nextPos;
+			if(hasReq)
+			{
+				if( ply.CheckItem(requisito) )
+				{
+					LoadLevel(other);
+				}
+			}
+			else
+			{
+				LoadLevel(other);
+			}
+
 		}
 	}
+
+	private void LoadLevel(Collider2D other)
+	{
+		SceneManager.LoadScene(ScenetoLoad);
+		other.transform.position= nextPos;
+	}
+
 }
